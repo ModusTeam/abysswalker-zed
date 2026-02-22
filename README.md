@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/stkossman/abysswalker-zed/main/icon.png" width="128" />
+  <img src="main/icon.png" width="128" />
 
   # Abysswalker for Zed
 
